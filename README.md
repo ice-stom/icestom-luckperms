@@ -1,5 +1,4 @@
-# Icestom Example Plugin
+# Icestom Luckperms
+it works pretty much identically to luckperms on a spigot server, there is a none zero chance that I forgot to include the database drivers - @microwavedram
 
-## Get Started
-- Refactor the package names from `com.example` to your own, use `io.github.<your_github_name>` if you're not sure
-- `./gradlew runIcestom` to launch a development server
+https://github.com/ice-stom/icestom-luckperms/releases
